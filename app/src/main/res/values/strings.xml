@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Click It</string>
+    <string name="score_heading">Score: %d</string>
+    <string name="final_score">Your score was: %d</string>
+    <string name="time_display">Time: %d ms</string>
+    <string name="title">Square Clicker</string>
+    <string name="start">START</string>
+</resources>
